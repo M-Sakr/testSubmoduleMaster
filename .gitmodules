@@ -1,0 +1,3 @@
+[submodule "testSubmoduleSlave"]
+	path = testSubmoduleSlave
+	url = git@github.com:M-Sakr/testSubmoduleSlave.git
